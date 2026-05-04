@@ -21,8 +21,8 @@ Based on the **Deep Dive** analysis:
 3. **Income vs. Tenure:** Attrition is concentrated among lower-income earners regardless of years at the company.
 
 ## 📸 Screenshots
-![Overview](image 1.png)
-![Deep Dive](image 2.png)
+![Overview](image_1.png)
+![Deep Dive](image_2.png)
 
 ---
 *Created by Anuoluwapo Oludumila | Data Analyst Portfolio Project*
